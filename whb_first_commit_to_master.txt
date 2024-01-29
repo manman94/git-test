@@ -1,1 +1,0 @@
-This is whb's first commit to git-test.
